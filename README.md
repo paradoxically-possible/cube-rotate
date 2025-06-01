@@ -1,4 +1,3 @@
-````markdown
 # Cube Rotate
 
 A collection of Python scripts to render a rotating 3D cube with a star field background using the **turtle** module. This repository contains two main files:
@@ -96,7 +95,7 @@ No external dependencies are required—just make sure Python is installed and `
    ```bash
    git clone https://github.com/paradoxically-possible/cube-rotate.git
    cd cube-rotate
-````
+   ````
 
 2. **(Optional) Create a Virtual Environment**
    To isolate the Python environment:
